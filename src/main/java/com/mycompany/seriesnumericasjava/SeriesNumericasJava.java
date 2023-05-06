@@ -15,5 +15,6 @@ public class SeriesNumericasJava {
         Serie serieNum = new Serie();
         serieNum.imprimirSerie();
 	serieNum.imprimirSerie();
+		hola
     }
 }
